@@ -9,6 +9,7 @@
 <div style = "display: inline_block"> <br>
   <img align = "center" alt = "Wellington-Dart" height = "70" width = "70" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original-wordmark.svg">
    <img align = "center" alt = "Wellington-Flutter" height = "40" width = "60" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
+  <img align = "center" alt = "Wellington-Flutter" height = "70" width = "70" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg">
   
 ##
  
