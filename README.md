@@ -1,8 +1,8 @@
 
   
 ##  Olá, sou Wellington Miguel, desenvolvedor front-end!
-### Cursando Desenvolvimento em Flutter na Cubos Academy e estudando Html e Css por conta própria...
-### Compartilhe sugestões e conhecimentos que ajudem no meu aprendizado, conto com você!
+###### -Cursando Desenvolvimento em Flutter na Cubos Academy e estudando Html e Css por conta própria...
+###### -Compartilhe sugestões e conhecimentos que ajudem no meu aprendizado, conto com você!
 <div align = "justify">
   <a href="https://github.com/Wellington-Miguel">
   <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=Wellington-Miguel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" /> 
