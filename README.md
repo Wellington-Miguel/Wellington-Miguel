@@ -1,6 +1,6 @@
 
   
-##  Olá, sou Wellington Miguel, desenvolvedor front-end!
+##  Olá, sou Wellington Miguel, desenvolvedor em formação!
 ##### -Cursando Desenvolvimento em Flutter na Cubos Academy e Python pela How Bootcamp...
 ##### -Compartilhe sugestões e conhecimentos que ajudem no meu aprendizado, conto com você!
 <div align = "justify">
